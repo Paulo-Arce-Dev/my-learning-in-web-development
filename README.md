@@ -1,36 +1,36 @@
-# 🚀 Aprendizaje en Desarrollo Web Frontend
+# 🚀 Frontend Web Development Journey
 
-¡Hola! 👋 Soy un desarrollador frontend en formación.  
-Este repositorio es mi bitácora pública donde documento mi progreso **día a día** mientras aprendo desarrollo web frontend de forma autodidacta.
+Hi there! 👋 I'm a frontend developer in training.  
+This repository is my public learning log where I document my **daily progress** as I teach myself web development from scratch.
 
-### 🧠 ¿Qué vas a encontrar acá?
+### 🧠 What you'll find here
 
-- 📅 Registro diario de lo que estudio
-- 💡 Apuntes técnicos y prácticos
-- 🛠️ Ejercicios, mini proyectos y pruebas de conceptos
-- 🧪 Errores, soluciones y reflexiones
-- 🔗 Recursos útiles que me ayudan a avanzar
+- 📅 Daily learning logs
+- 💡 Technical notes and insights
+- 🛠️ Exercises, mini-projects, and experiments
+- 🧪 Mistakes, solutions, and lessons learned
+- 🔗 Useful resources that help me along the way
 
 ---
 
-### 📚 Tecnologías y conceptos que estoy aprendiendo
+### 📚 Technologies and topics I'm learning
 
 - HTML5 / CSS3
 - JavaScript (ES6+)
 - TypeScript
 - React
-- Git y GitHub
+- Git & GitHub
 - Responsive Design
-- Accesibilidad web (a11y)
-- Buenas prácticas y arquitectura frontend
-- Patrones de diseño
-- Herramientas modernas (Vite, ESLint, Prettier, etc.)
+- Web Accessibility (a11y)
+- Frontend best practices and architecture
+- Design patterns
+- Modern tools (Vite, ESLint, Prettier, etc.)
 
 ---
 
-### 🗓️ ¿Por qué hago esto?
+### 🗓️ Why I'm doing this
 
-✅ Para mantenerme constante  
-✅ Para aprender mejor explicando lo que estudio  
-✅ Para mostrar mi evolución como desarrollador  
-✅ Para usarlo como referencia futura (y quizá ayudarte también a vos)
+✅ To stay consistent  
+✅ To learn better by explaining what I study  
+✅ To track and showcase my growth as a developer  
+✅ To build a personal knowledge base (and maybe help others too)
